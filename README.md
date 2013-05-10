@@ -1,7 +1,5 @@
-FEZ-OCR
-=======
-
 Fez Cipher decoder in Python
+=======
 
 Requirements:
 - Python 2.x
@@ -23,7 +21,8 @@ It'll show you a bunch of glyphs and you need to press the corresponding key on 
 You can feed it your own image too (by default it's just alphabet.png).
 
 Examples:
-["w ha ha ha check out mr rectangle head ouer there"] (http://i.imgur.com/RolNJil.png) (Notice the stray w here)
+
+["w ha ha ha check out mr rectangle head ouer there"](http://i.imgur.com/RolNJil.png) (Notice the stray w here)
 
 ["the points constellate conspire to create shapes shapes to tessellate"](http://i.imgur.com/JEQ6l3n.png)
 
